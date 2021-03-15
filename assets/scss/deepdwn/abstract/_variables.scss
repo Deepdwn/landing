@@ -1,0 +1,24 @@
+// colors
+$white: #f6f5f5;
+$light-gray: #ddd;
+$gray-blue: #30475e;
+$blue: #00334e;
+$dark-blue: #222831;
+$salmon: #f054aa;
+$pank: #ff247a;
+$bg1: $white;
+$bg2: $light-gray;
+$primary: $gray-blue;
+$secondary: $dark-blue;
+$accent: $pank;
+
+//layout
+$fullwidth: 960px;
+$largewidth: 600px;
+
+$breakpoints: (
+  "tiny":   ( max-width: 250px ),
+  "small":  ( max-width: 599px ),
+  "medium": ( min-width: 600px ),
+  "large":  ( min-width: 1000px )
+);

@@ -12,9 +12,9 @@
     {{ .Scratch.Set "class" .Type -}}
     {{ .Scratch.Add "class" " list" -}}
   {{ end -}}
-  <body class="{{ .Scratch.Get "class" }}">
+  <body class="dark {{ .Scratch.Get "class" }}{{ if not .IsHome }} page-wrapper{{ end }}">
     {{ partial "header/header.html" . }}
-    <div class="wrap container" role="document">
+    <div class="wrap {{ if not .IsHome }}container{{ end }}" role="document">
       <div class="content">
         {{ block "main" . }}{{ end }}
       </div>
