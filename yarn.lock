@@ -6419,6 +6419,11 @@ signale@^1.4.0:
     figures "^2.0.0"
     pkg-conf "^2.1.0"
 
+simple-lightbox@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/simple-lightbox/-/simple-lightbox-2.1.0.tgz#e8b4a10fd21eee255d5eba503eef70bbe7f6128a"
+  integrity sha512-cfIe4fKEA/qObvOKs1mbMCOhKYAClFrdZyWjZ+BJFyWOeg+ckjhydM+JajCL+nF9GRcidqfv15BYl3gfbzawXQ==
+
 slash@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/slash/-/slash-2.0.0.tgz#de552851a1759df3a8f206535442f5ec4ddeab44"

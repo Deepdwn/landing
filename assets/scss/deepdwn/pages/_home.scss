@@ -7,6 +7,10 @@ body.home {
     margin-top: 0;
     background-color: rgba(0, 0, 0, 0.8);
   }
+
+  .nav-item.active {
+    display: none;
+  }
 }
 
 .landing-links {

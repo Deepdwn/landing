@@ -5,6 +5,7 @@
 {{ $bs := $bs | js.Build -}}
 
 {{ $app := resources.Get "js/app.js" -}}
+{{ $app := $app | js.Build }}
 
 {{ $slice := slice $app -}}
 
