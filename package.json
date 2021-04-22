@@ -40,7 +40,7 @@
     "clipboard": "^2.0",
     "eslint": "^7.21",
     "flexsearch": "^0.6",
-    "hugo-bin": "^0.69",
+    "hugo-bin": "^0.70",
     "instant.page": "^5.1",
     "lazysizes": "^5.3",
     "markdownlint-cli": "^0.27",
@@ -49,6 +49,7 @@
     "postcss-cli": "^8.3",
     "purgecss-whitelister": "^2.4",
     "rimraf": "^3.0",
+    "simple-lightbox": "^2.1.0",
     "standard-version": "^9.1",
     "stylelint": "^13.12",
     "stylelint-config-standard": "^21.0"
