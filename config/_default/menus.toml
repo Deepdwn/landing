@@ -27,6 +27,12 @@
   url = "/press/"
   weight = 30
 
+[[main]]
+  name = "Changelog"
+  identifier = "changelog"
+  url = "https://support.deepdwn.com/changelog"
+  weight = 40
+
 
 [[social]]
   name = "Twitter"
