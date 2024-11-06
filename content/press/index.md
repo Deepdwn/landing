@@ -10,8 +10,8 @@ type: presskit
 
 ### Developer
 
-Billiam  
-Based in Minnesota, US  
+Billiam
+Based in Minnesota, US
 [www.billiam.org](https://www.billiam.org)
 
 ### Platforms
@@ -30,17 +30,12 @@ Based in Minnesota, US
 
 ### Pricing
 
-$11.99 USD  
+$11.99 USD
 one-time-purchase
 
 ## Contact
 
 <contact@deepdwn.com>
-
-## Social
-
-* [twitter](https://twitter.com/deepdwnapp)
-* [reddit](https://reddit.com/r/deepdwn)
 
 </div>
 <div class="data">

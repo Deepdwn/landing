@@ -8,8 +8,8 @@ description = "Markdown editor and organizer for Windows, Mac, and Linux"
 
 ## Open Graph + Twitter Cards
 images = ["card.png"]
-twitterSite = "DeepdwnApp"
-twitterCreator = "billiporter"
+twitterSite = ""
+twitterCreator = ""
 facebookAuthor = ""
 facebookPublisher = ""
 ogLocale = "en_US"
@@ -18,7 +18,8 @@ ogLocale = "en_US"
 schemaType = "Organization"
 schemaLogo = "logo-deepdwn.png"
 schemaLinkedIn = ""
-schemaTwitter = "https://twitter.com/DeepdwnApp"
+schemaTwitter = ""
+schemaBluesky = "https://bsky.app/profile/deepdwn.com"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
