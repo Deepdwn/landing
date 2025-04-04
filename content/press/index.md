@@ -30,7 +30,7 @@ Based in Minnesota, US
 
 ### Pricing
 
-$11.99 USD
+$14.99 USD
 one-time-purchase
 
 ## Contact
